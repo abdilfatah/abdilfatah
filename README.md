@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @abdilfatah
-- 👀 I’m interested in machine learning and mobile web development
-- 🌱 I’m currently learning Angular
+- 👀 I’m interested in machine learning, Mobile and Web Development
+- 🌱 I’m currently learning Reactjs and Flutter
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me @guhanahmed
+- 📫 How to reach me @Abdilfatah on LinkedIn
 
 <!---
 abdilfatah/abdilfatah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
